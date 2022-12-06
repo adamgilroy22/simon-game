@@ -20,6 +20,7 @@ h2 {
     margin-bottom: 35px;
     text-align: center;
 }
+
 .circle {
     border-radius: 50%;
     position: absolute;
@@ -28,27 +29,27 @@ h2 {
 .circle1 {
     height: 500px;
     width: 500px;
-    background-color: #009FE3;
+    background-color: #1d9ddc;
 }
 
 .circle2 {
     height: 400px;
     width: 400px;
-    background-color: #445261;
+    background-color: #ebd921;
     top: 50px;
     left: 50px;
 }
 .circle3 {
     height: 300px;
     width: 300px;
-    background-color: #EFB920;
+    background-color: #d92a27;
     top: 100px;
     left: 100px;
 }
 .circle4 {
     height: 200px;
     width: 200px;
-    background-color: #23BBBB;
+    background-color: #02b757;
     top: 150px;
     left: 150px;
 }
@@ -83,5 +84,5 @@ h2 {
 }
 
 .light {
-    opacity: 0.4;
+    opacity: .6;
 }
